@@ -1,0 +1,12 @@
+com\mindtree\watchstoremaven\entity\Watch.class
+com\mindtree\watchstoremaven\service\WatchStoreService.class
+com\mindtree\watchstoremaven\exception\dao\DaoException.class
+com\mindtree\watchstoremaven\exception\ApplicationException.class
+com\mindtree\watchstoremaven\dao\WatchStoreDao.class
+com\mindtree\watchstoremaven\entity\Type.class
+com\mindtree\watchstoremaven\dao\impl\WatchStoreDaoImpl.class
+com\mindtree\watchstoremaven\exception\service\ServiceException.class
+com\mindtree\watchstoremaven\exception\service\ThisIdISnotPresent.class
+com\mindtree\watchstoremaven\service\impl\WatchStoreServiceImpl.class
+com\mindtree\watchstoremaven\client\WatchStoreApplication.class
+com\mindtree\watchstoremaven\utility\UtilityClass.class
