@@ -25,7 +25,7 @@ public class WatchStoreApplication {
 			System.out.println("5. for deleted type");
 			System.out.println("6. for Exit");
 			int choice=UtilityClass.getInt();
-			//switch (choice) {
+			switch (choice) {
 			case 1:
 				try {
 					System.out.println(service.addTypeService(addType()));
